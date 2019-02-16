@@ -38,10 +38,5 @@ void loop() {
    if(deget==5)
       mic.write(170-pos);
    Serial.println(data);
-  // Serial.print(' ');
-  // Serial.print(deget);
-  //Serial.print(' ');
-   //Serial.println(pos);
-  //Serial.println(8);
  }
 }
